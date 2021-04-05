@@ -6,7 +6,7 @@ Premier jet de ma vitrine numérique.
 
 ## Démarrage
 
-Pour voir le projet, vous devez juste cliquer [ici](anthony-audoin.fr).
+Pour voir le projet, vous devez juste cliquer [ici](https://anthony-audoin.fr/).
 
 ## Fabriqué avec
 
