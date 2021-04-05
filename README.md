@@ -2,7 +2,7 @@
 
 ![forthebadge](https://forthebadge.com/images/badges/uses-html.svg) ![forthebadge](https://forthebadge.com/images/badges/uses-css.svg) ![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)
 
-Premier jet de vitrine numérique.
+Premier jet de ma vitrine numérique.
 
 ## Démarrage
 
